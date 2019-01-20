@@ -1,0 +1,18 @@
+﻿  Exercise3.cpp
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(31): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(32): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(33): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(34): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(35): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(36): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(37): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(38): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(39): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(40): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(41): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(42): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(43): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(44): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(45): warning C4307: '*': integral constant overflow
+c:\users\klsla\source\repos\cis100_lab1\exercise3\exercise3.cpp(46): warning C4307: '*': integral constant overflow
+  Exercise3.vcxproj -> C:\Users\klsla\source\repos\CIS100_Lab1\Debug\Exercise3.exe
